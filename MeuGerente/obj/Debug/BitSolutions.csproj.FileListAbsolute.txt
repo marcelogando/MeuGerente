@@ -1,0 +1,63 @@
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\BitSolutions.dll.config
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\BitSolutions.dll
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\BitSolutions.pdb
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\Newtonsoft.Json.dll
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Net.Http.dll
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Net.Http.Formatting.dll
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Net.Http.WebRequest.dll
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Helpers.dll
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Http.dll
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Http.WebHost.dll
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Mvc.dll
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Razor.dll
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.WebPages.dll
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\Newtonsoft.Json.xml
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Net.Http.xml
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Net.Http.Formatting.xml
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Net.Http.WebRequest.xml
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Helpers.xml
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Http.xml
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Http.WebHost.xml
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Mvc.xml
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Razor.xml
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.WebPages.xml
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\obj\Debug\BitSolutions.dll
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\obj\Debug\BitSolutions.pdb
+C:\Users\Marcel\Desktop\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\obj\Debug\BitSolutions.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\BitSolutions.dll.config
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\BitSolutions.dll
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\BitSolutions.pdb
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\Newtonsoft.Json.dll
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Net.Http.dll
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Net.Http.Formatting.dll
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Net.Http.WebRequest.dll
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Helpers.dll
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Http.dll
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Http.WebHost.dll
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Mvc.dll
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Razor.dll
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.WebPages.dll
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\Newtonsoft.Json.xml
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Net.Http.xml
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Net.Http.Formatting.xml
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Net.Http.WebRequest.xml
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Helpers.xml
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Http.xml
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Http.WebHost.xml
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Mvc.xml
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.Razor.xml
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.WebPages.xml
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\obj\Debug\BitSolutions.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\obj\Debug\BitSolutions.dll
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\obj\Debug\BitSolutions.pdb
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\BitSolutions\BitSolutions\BitSolutions\bin\mysql.data.dll

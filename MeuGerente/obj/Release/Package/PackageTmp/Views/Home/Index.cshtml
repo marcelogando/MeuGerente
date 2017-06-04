@@ -1,0 +1,38 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/main_layout.cshtml";
+}
+
+<div class="container" style="background-color:#fff;">
+    <div id="piechart" style="width: 100%;padding-top:50px;"></div>
+    <!---header--->
+    <div class="header">
+        <div class="banner">
+            <div style="padding-top:15px;">
+                <img src="~/img/logo_colorido.gif" width="350" />
+            </div>
+            <div style="padding-top:80px;">
+                Usuário
+            </div>
+            <div style="padding-left:100px;padding-right:100px;">
+                <input class="form-control" type="text" />
+            </div>
+            <div style="padding-top:7px;">
+                Senha
+            </div>
+            <div style="padding-left:100px;padding-right:100px;">
+                <input class="form-control" type="password" />
+            </div>
+            <div style="padding-left:100px;padding-right:100px;padding-top:15px;">
+                <button class="btn" style="background-color:#0a4772 !important;color:#fff;border-radius:6px;width:100%;font-weight:bold;" onclick="window.location.href='@Url.Action("Index", "Video")';">Login</button>
+            </div>
+            <div style="padding-top:15px;">
+                <a href="#">Esqueci a minha senha</a>
+            </div>
+            <div>
+                <a href="#">Criar nova conta</a>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</div>

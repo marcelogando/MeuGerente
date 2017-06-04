@@ -1,0 +1,2 @@
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\Meu Gerente\Meu Gerente\MeuGerenteNode\obj\Debug\MeuGerenteNode.njsprojResolveAssemblyReference.cache
+C:\Users\Marcel\Dropbox\Arquivos BitSolution\Projetos\Solutions\Meu Gerente\Meu Gerente\MeuGerenteNode\bin\Microsoft.NodejsTools.WebRole.dll

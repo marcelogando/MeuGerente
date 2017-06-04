@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/main_layou_login.cshtml";
+}
+
+<div style="text-align:center;padding-bottom:20px;">
+    Escolha um banco para adicionar uma conta:
+</div>
+
+<table style="width:100%;text-align:center;">
+    <tr>
+        <td style="width:25%;">
+            <img src="~/img/bradesco.png" />
+            <br />
+            Bradesco
+        </td>
+        <td style="width:25%;">
+            <img src="~/img/Itau.png" />
+            <br />
+            Itaú
+        </td>
+        <td style="width:25%;">
+            <img src="~/img/original.png" />
+            <br />
+            Original
+        </td>
+        <td style="width:25%;">
+            <img src="~/img/neon.png" />
+            <br />
+            Neon
+        </td>
+    </tr>
+    <tr>
+        <td style="width:25%;padding-top:35px;">
+            <img src="~/img/nubank.png" />
+            <br />
+            Nubank
+        </td>
+        <td style="width:25%;padding-top:35px;">
+            <img src="~/img/Santander.png" />
+            <br />
+            Santander
+        </td>
+        <td style="width:25%;padding-top:35px;">
+            <img src="~/img/caixa.png" />
+            <br />
+            Caixa
+        </td>
+        <td style="width:25%;padding-top:35px;">
+            <img src="~/img/citibank.png" />
+            <br />
+            Citibank
+        </td>
+    </tr>
+</table>
+
+<div style="padding-top:30px;text-align:center;">
+    <button class="btn" style="width:90%;background-color:#0a4772;color:#fff;" onclick="window.location.href = '@Url.Action("Index","MeuGerente")';">+ Adicionar Conta</button>
+</div>

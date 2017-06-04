@@ -1,0 +1,55 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/main_layout_usuario.cshtml";
+}
+
+<table style="width:100%;">
+    <tr style="border:5px solid #eaeaea;height:78px;">
+        <td style="text-align:center;">
+            <a href="@Url.Action("Index","MeuGerente")"><img src="~/img/bb.png" /></a>
+        </td>
+        <td>
+            <a href="@Url.Action("Index","MeuGerente")">Banco do Brasil</a>            
+            <br />
+            <a href="@Url.Action("Index","MeuGerente")">Saldo:</a>
+            <br />
+            <a href="@Url.Action("Index","MeuGerente")">R$ 2,79</a>
+        </td>
+    </tr>
+    <tr style="border:5px solid #eaeaea;height:78px;">
+        <td style="text-align:center;">
+            <a href="@Url.Action("Index","MeuGerente")"><img src="~/img/original.png" /></a>
+        </td>
+        <td>
+            <div>
+                <a href="@Url.Action("Index","MeuGerente")">Banco Original</a>
+            </div>
+            <div>
+                <a href="@Url.Action("Index","MeuGerente")">Saldo:</a>
+            </div>
+            <div style="color:red;">
+                <a href="@Url.Action("Index","MeuGerente")">R$ 70,51</a>
+            </div>
+        </td>
+    </tr>
+    <tr style="border:5px solid #eaeaea;height:78px;">
+        <td style="text-align:center;">
+            <a href="@Url.Action("Index","MeuGerente")"><img src="~/img/Itau.png" /></a>
+        </td>
+        <td>
+            <a href="@Url.Action("Index","MeuGerente")">Banco Itaú</a>
+            <br />
+            <a href="@Url.Action("Index","MeuGerente")">Saldo:</a>
+            <br />
+            <a href="@Url.Action("Index","MeuGerente")">R$ 982,25</a>
+        </td>
+    </tr>
+    <tr style="border:5px solid #eaeaea;height:78px;">
+        <td style="text-align:center;">
+            <img src="~/img/addconta.png" />
+        </td>
+        <td>
+           <a href="@Url.Action("Index","Banco")">Adicionar nova conta</a>
+        </td>
+    </tr>
+</table>
